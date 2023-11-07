@@ -281,5 +281,5 @@ void print (A &obj){
 int main(){
     A obj(5);
 print(obj);
+return 0;}
 
-}

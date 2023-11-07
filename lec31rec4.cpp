@@ -51,21 +51,3 @@ using namespace std;
 //     return 0;
 // }
 //to check in x to i-1
-// bool f(int *arr ,int n,int i,int x){
-//     //base case
-//     if(i==n){
-//         //array is exhausted
-//         return false;
-//     }
-//     return arr[i]==x||f(arr,n,i+1,x);
-// }
-// int main(){
-//     int arr[]={1,2,3,9};
-//     int n=4;
-//     int x=3;
-//     bool result=f(arr,n,0,x);
-//     if(result) cout<<" yes";
-//     else cout<<"no";
-//     return 0;
-
-// }
